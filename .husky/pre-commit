@@ -1,0 +1,3 @@
+pnpm biome:check:write
+pnpm build
+pnpm test
